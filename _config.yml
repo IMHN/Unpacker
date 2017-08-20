@@ -1,0 +1,40 @@
+# Site settings
+title: Unpacker JS
+about: A unpack or deobfuscate JavaScript Tool. Algorithm by Matthewfl.  
+email: huynhsang.4ever@gmail.com
+url: http://salipropham.github.io/unpacker
+keywords: "SaliproPhạm, unpacker by Matthewfl, decode js"
+description: "A unpack or deobfuscate JavaScript Tool. Algorithm by Matthewfl"
+created: 2015/02/18
+author: SaliproPham
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 3C4D5F #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+# Nav-menu
+nav:
+  - title: user
+    url: //salipropham.github.io
+  - title: github
+    url: //github.com/salipropham/unpacker
+  - title: download
+    url: //github.com/salipropham/unpacker/archive/master.zip
+
+
+# Footer settings
+footer:
+  copyright: SaliproPhạm
+  left: About
+  right: Location
+  credits: Credits
+
+# Postal address (add as many lines as necessary)
+left:
+    text: 3481 Melrose Place
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
